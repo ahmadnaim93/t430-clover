@@ -1,0 +1,13 @@
+ACPIBatteryManager.kext
+ACPIPoller.kext
+AppleALC.kext
+AppleBacklightFixup.kext
+BrcmBluetoothInjector.kext
+FakeSMC.kext
+IO80211Family.kext
+IntelMausiEthernet.kext
+Lilu.kext
+RealtekRTL8111.kext
+VoodooPS2Controller.kext
+WhateverGreen.kext
+kexts.txt
